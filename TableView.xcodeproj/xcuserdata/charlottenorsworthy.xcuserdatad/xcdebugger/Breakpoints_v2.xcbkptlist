@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C275D48D-5227-4D53-86D6-C9E9C28A5730"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "615512B3-45A3-4FC3-8C3A-78D57A6692D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableView/Model/TableLogic.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "init(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "615512B3-45A3-4FC3-8C3A-78D57A6692D5 - f410b3151403da9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView.Players.init(Swift.String, Swift.String) -&gt; TableView.Players"
+                  moduleName = "TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlottenorsworthy/Documents/JamesVarnum/CPSC5330/Assignment7/TableView/TableView/Model/TableLogic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "615512B3-45A3-4FC3-8C3A-78D57A6692D5 - 490f06ac1ea304dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TableView.Players.init(Swift.String, Swift.String, Swift.String) -&gt; TableView.Players"
+                  moduleName = "TableView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charlottenorsworthy/Documents/JamesVarnum/CPSC5330/Assignment7/TableView/TableView/Model/TableLogic.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
